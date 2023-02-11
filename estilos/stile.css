@@ -1,0 +1,12 @@
+/* regras do css */
+@charset "utf-8";
+/* variaveis */
+:root{
+    --roxo1:#F94FFF;
+    --roxo2:#EF34F5;
+    --roxo3:#A30FA8;
+    --verde1:#7FF533;
+    --verde2:#7FF533;
+    --branco:#ffffff;
+    --preto:#000000;
+}
