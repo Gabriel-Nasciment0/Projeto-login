@@ -38,7 +38,7 @@ section#login {
     top: 50%;
     left: 50%;
     overflow: hidden;
-    
+
     background-color: var(--branco);
     width: 300px;
     height: 535px;
@@ -94,7 +94,7 @@ div.campo > input {
     padding: 4px;
     transform: translatey(-13px);
 }
-div.campo > input:focus-within{
+div.campo > input:focus-within {
     background-color: var(--branco);
     border: none;
 }
